@@ -30,6 +30,6 @@ Funcionalidades principais:
 - **numpy** – usado internamente pelo **pandas**  
 - **python-dateutil**, **pytz** e **tzdata** – para manipulação de datas e horários  
 - **schedule** – para agendamento de envios automáticos  
-- **requests**, **urllib3**, **certifi**, **charset-normalizer**, **idna**, **six**, **et_xmlfile** – dependências auxiliares necessárias para integração com planilhas e conexões HTTP  
+
 
 
